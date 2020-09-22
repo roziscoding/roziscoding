@@ -1,16 +1,17 @@
-### Hi there 👋
+# Roz
 
-<!--
-**roziscoding/roziscoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Opa, beleza? Eu sou o Roz! Meu nome de registro é `Rogério Munhoz`, mas hoje em dia pouca gente me chama assim :)
 
-Here are some ideas to get you started:
+Sou desenvolvedor back-end e especialista na [Trybe](https://betrybe.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais tecnologias
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roziscoding&theme=dracula&layout=compact)
+
+## Histórico do Github
+
+![](https://github-readme-stats.vercel.app/api?username=roziscoding&count_private=true&show_icons=true&theme=dracula)
+
+## Fala comigo!
+
+A principal forma de me contactar é através do [Telegram](https://t.me/roziscoding). Mas você também pode me encontrar através do email [roz@rjmunhoz.me](mailto:roz@rjmunhoz.me) ou [Linkedin](https://www.linkedin.com/in/rjmunhoz/).
