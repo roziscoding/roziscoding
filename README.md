@@ -2,7 +2,7 @@
 
 Opa, beleza? Eu sou o Roz! Meu nome de registro é `Rogério Munhoz`, mas hoje em dia pouca gente me chama assim :)
 
-Sou desenvolvedor back-end e líder de currículo na [Trybe](https://betrybe.com).
+Sou desenvolvedor back-end e DX Engineer no [Vue Storefront](vuestorefront.io)
 
 ## Principais tecnologias
 
