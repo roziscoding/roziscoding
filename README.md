@@ -2,7 +2,7 @@
 
 Opa, beleza? Eu sou o Roz! Meu nome de registro é `Rogério Munhoz`, mas hoje em dia pouca gente me chama assim :)
 
-Sou desenvolvedor back-end e DX Engineer no [Vue Storefront](vuestorefront.io)
+Sou desenvolvedor back-end e DX Engineer no [Vue Storefront](https://vuestorefront.io)
 
 ## Principais tecnologias
 
