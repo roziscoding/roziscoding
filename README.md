@@ -2,11 +2,11 @@
 
 Opa, beleza? Eu sou o Roz!
 
-Sou desenvolvedor back-end e DX Engineer no [Vue Storefront](https://vuestorefront.io)
+Sou desenvolvedor back-end com foco em desenvolvimento seguro. Pra saber o que eu faço da vida no momento, dá uma olhada no meu [Linkedin](https://www.linkedin.com/in/roziscoding/) :)
 
 ## Principais tecnologias
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roziscoding&theme=dracula&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roziscoding&theme=dracula&layout=compact&hide=html,dart) 
 
 ## Histórico do Github
 
