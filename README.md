@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">- 🔭 Atuando como Sr. Staff Engineer na Pipefy<br>- 📚 Aprendendo Ruby<br>- ⚡ No tempo livre contribuo com projetos open source</p>
+<p align="center">- 🔭 Atuando como Sr. Staff Engineer na <a href="https://pipefy.com" target="_blank">Pipefy</a><br>- 📚 Aprendendo Ruby<br>- ⚡ No tempo livre contribuo com projetos open source</p>
 
 ###
 
