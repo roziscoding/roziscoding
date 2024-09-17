@@ -6,8 +6,8 @@
   <a href="https://roz.ninja/telegram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@roziscoding&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"alt="telegram logo"  />
   </a>
-  <a rel="me" href="https://bolha.us/@roz" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/%40roz%40bolha.us-blue?style=for-the-badge&logo=mastodon&logoColor=white">
+  <a rel="me" href="https://roz.ninja/bluesky" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/%40roz.ninja-blue?style=for-the-badge&logo=bluesky&logoColor=white">
   </a>
   <a href="https://roz.ninja/linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
