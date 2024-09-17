@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">- 🔭 Atuando como Sr. Software Engineer na <a href="https://lemon.energy" target="_blank">Lemon Energia</a><br>- ⚡ No tempo livre contribuo com projetos open source</p>
+<p align="center">- 🔭 Atuando como Software Engineer<br>- ⚡ No tempo livre contribuo com projetos open source</p>
 
 ###
 
