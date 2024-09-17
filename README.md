@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">- 🔭 Atuando como Software Engineer<br>- ⚡ No tempo livre contribuo com projetos open source</p>
+<p align="center">- 🔭 Atuando como Software Engineer<br>- ⚡ No tempo livre contribuo com projetos open source, principalmente com o <a href="https://github.com/grammyjs">grammY</a></p>
 
 ###
 
